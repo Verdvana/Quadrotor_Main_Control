@@ -1,0 +1,25 @@
+Change Component Designator: OldDesignator=复位 NewDesignator=複位
+Change Component Designator: OldDesignator=扩展 NewDesignator=擴展
+Change Component Designator: OldDesignator=电源 NewDesignator=電源
+Added Component: Designator=P12(HDR2X4H)
+Added Pin To Net: NetName=GND Pin=P12-1
+Added Pin To Net: NetName=VEE Pin=P12-2
+Added Pin To Net: NetName=CE Pin=P12-3
+Added Pin To Net: NetName=CE Pin=U0-45
+Added Net: Name=CE
+Added Pin To Net: NetName=CSN Pin=P12-4
+Added Pin To Net: NetName=CSN Pin=U0-33
+Added Net: Name=CSN
+Added Pin To Net: NetName=IRQ Pin=P12-8
+Added Pin To Net: NetName=IRQ Pin=U0-44
+Added Net: Name=IRQ
+Added Pin To Net: NetName=MISO Pin=P12-7
+Added Pin To Net: NetName=MISO Pin=U0-35
+Added Net: Name=MISO
+Added Pin To Net: NetName=MOSI Pin=P12-6
+Added Pin To Net: NetName=MOSI Pin=U0-36
+Added Net: Name=MOSI
+Added Pin To Net: NetName=SCK Pin=P12-5
+Added Pin To Net: NetName=SCK Pin=U0-34
+Added Net: Name=SCK
+Added Member To Class: ClassName=四旋翼飞控 Member=Component P12 無線通信

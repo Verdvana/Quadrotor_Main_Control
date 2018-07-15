@@ -1,0 +1,54 @@
+Change Component DesignItemId : Designator=复位 Old DesignItemId= New DesignItemId=KEY
+Change Component DesignItemId : Designator=U1 Old DesignItemId= New DesignItemId=X1117
+Change Component DesignItemId : Designator=Y0 Old DesignItemId= New DesignItemId=无源晶振
+Change Component DesignItemId : Designator=U0 Old DesignItemId=S New DesignItemId=STM32F1_64pin
+Change Component Description : Designator=C1 Old Description= New Description=Capacitor
+Change Component Description : Designator=C2 Old Description= New Description=Capacitor
+Change Component Description : Designator=C3 Old Description= New Description=Capacitor
+Change Component Description : Designator=C4 Old Description= New Description=Capacitor
+Change Component Description : Designator=C5 Old Description= New Description=Capacitor
+Change Component Description : Designator=C6 Old Description= New Description=Capacitor
+Change Component Description : Designator=C7 Old Description= New Description=Capacitor
+Change Component Description : Designator=C9 Old Description= New Description=Capacitor
+Change Component Description : Designator=C10 Old Description= New Description=Capacitor
+Change Component Description : Designator=C11 Old Description= New Description=Capacitor
+Change Component Description : Designator=C12 Old Description= New Description=Capacitor
+Change Component Description : Designator=C13 Old Description= New Description=Capacitor
+Change Component Description : Designator=C14 Old Description= New Description=Capacitor
+Change Component Description : Designator=C15 Old Description= New Description=Capacitor
+Change Component Description : Designator=C16 Old Description= New Description=Capacitor
+Change Component Description : Designator=C8 Old Description=Capac New Description=Capacitor
+Change Component Description : Designator=P3 Old Description=Heade New Description=Header, 3-Pin
+Change Component Description : Designator=P4 Old Description=Heade New Description=Header, 3-Pin
+Change Component Description : Designator=P5 Old Description=Heade New Description=Header, 3-Pin
+Change Component Description : Designator=P6 Old Description=Heade New Description=Header, 3-Pin
+Change Component Description : Designator=P8 Old Description=Heade New Description=Header, 3-Pin
+Change Component Description : Designator=P9 Old Description=Heade New Description=Header, 3-Pin
+Change Component Description : Designator=P10 Old Description=Heade New Description=Header, 3-Pin
+Change Component Description : Designator=P11 Old Description=Heade New Description=Header, 3-Pin
+Change Component Description : Designator=扩展 Old Description=Heade New Description=Header, 4-Pin
+Change Component Description : Designator=SWD Old Description=Heade New Description=Header, 5-Pin
+Change Component Description : Designator=6050 Old Description=Heade New Description=Header, 8-Pin
+Change Component Description : Designator=3V3 Old Description=Header, 3-Pin, Dual New Description=Header, 3-Pin, Dual row
+Change Component Description : Designator=R1 Old Description=P New Description=Potentiometer
+Change Component Description : Designator=R2 Old Description=P New Description=Potentiometer
+Change Component Description : Designator=R3 Old Description=P New Description=Potentiometer
+Change Component Description : Designator=R4 Old Description=P New Description=Potentiometer
+Change Component Description : Designator=R5 Old Description=P New Description=Potentiometer
+Change Component Description : Designator=R6 Old Description=P New Description=Potentiometer
+Change Component Description : Designator=R7 Old Description=P New Description=Potentiometer
+Change Component Description : Designator=R8 Old Description=P New Description=Potentiometer
+Change Component Description : Designator=D2 Old Description=Typical New Description=Typical BLUE SiC LED
+Change Component Description : Designator=D3 Old Description=Typical New Description=Typical BLUE SiC LED
+Change Component Description : Designator=D4 Old Description=Typical New Description=Typical BLUE SiC LED
+Change Component Description : Designator=D5 Old Description=Typical New Description=Typical BLUE SiC LED
+Change Component Description : Designator=电源 Old Description=Typical New Description=Typical BLUE SiC LED
+Change Component Library : Designator=Y0 Old Library=my_li New Library=my_lib.IntLib
+Change Component Library : Designator=复位 Old Library=my_li New Library=my_lib.IntLib
+Change Component Library : Designator=U1 Old Library=my_lib.In New Library=my_lib.IntLib
+Added Pin To Net: NetName=NetC3_2 Pin=SWD-5
+Added Pin To Net: NetName=NetC3_2 Pin=U0-7
+Change Net Name : Old Net Name=NetC3_2 New Net Name=NRST
+Change Net Name : Old Net Name=NetD1_1 New Net Name=NetR4_2
+Change Net Name : Old Net Name=NetP2_3 New Net Name=Net3V3_3
+Change Net Name : Old Net Name=NetP2_4 New Net Name=Net3V3_4

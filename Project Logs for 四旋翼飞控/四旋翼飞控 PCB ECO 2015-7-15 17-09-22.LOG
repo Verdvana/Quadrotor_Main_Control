@@ -1,0 +1,91 @@
+Change Component DesignItemId : Designator=C4 Old DesignItemId= New DesignItemId=Cap2
+Change Component DesignItemId : Designator=C7 Old DesignItemId= New DesignItemId=Cap2
+Change Component DesignItemId : Designator=C8 Old DesignItemId= New DesignItemId=Cap2
+Change Component DesignItemId : Designator=C1 Old DesignItemId= New DesignItemId=Cap
+Change Component DesignItemId : Designator=C2 Old DesignItemId= New DesignItemId=Cap
+Change Component DesignItemId : Designator=C3 Old DesignItemId= New DesignItemId=Cap
+Change Component DesignItemId : Designator=C5 Old DesignItemId= New DesignItemId=Cap
+Change Component DesignItemId : Designator=C6 Old DesignItemId= New DesignItemId=Cap
+Change Component DesignItemId : Designator=C9 Old DesignItemId= New DesignItemId=Cap
+Change Component DesignItemId : Designator=C10 Old DesignItemId= New DesignItemId=Cap
+Change Component DesignItemId : Designator=C11 Old DesignItemId= New DesignItemId=Cap
+Change Component DesignItemId : Designator=C12 Old DesignItemId= New DesignItemId=Cap
+Change Component DesignItemId : Designator=C13 Old DesignItemId= New DesignItemId=Cap
+Change Component DesignItemId : Designator=C14 Old DesignItemId= New DesignItemId=Cap
+Change Component DesignItemId : Designator=C15 Old DesignItemId= New DesignItemId=Cap
+Change Component DesignItemId : Designator=C16 Old DesignItemId= New DesignItemId=Cap
+Change Component DesignItemId : Designator=复位 Old DesignItemId= New DesignItemId=KEY
+Change Component DesignItemId : Designator=D2 Old DesignItemId= New DesignItemId=LED
+Change Component DesignItemId : Designator=D3 Old DesignItemId= New DesignItemId=LED
+Change Component DesignItemId : Designator=D4 Old DesignItemId= New DesignItemId=LED
+Change Component DesignItemId : Designator=D5 Old DesignItemId= New DesignItemId=LED
+Change Component DesignItemId : Designator=电源 Old DesignItemId= New DesignItemId=LED
+Change Component DesignItemId : Designator=R1 Old DesignItemId= New DesignItemId=Res
+Change Component DesignItemId : Designator=R2 Old DesignItemId= New DesignItemId=Res
+Change Component DesignItemId : Designator=R3 Old DesignItemId= New DesignItemId=Res
+Change Component DesignItemId : Designator=R4 Old DesignItemId= New DesignItemId=Res
+Change Component DesignItemId : Designator=R5 Old DesignItemId= New DesignItemId=Res
+Change Component DesignItemId : Designator=R6 Old DesignItemId= New DesignItemId=Res
+Change Component DesignItemId : Designator=R7 Old DesignItemId= New DesignItemId=Res
+Change Component DesignItemId : Designator=R8 Old DesignItemId= New DesignItemId=Res
+Change Component DesignItemId : Designator=U0 Old DesignItemId= New DesignItemId=STM32F1_64pin
+Change Component DesignItemId : Designator=Y0 Old DesignItemId= New DesignItemId=无源晶振
+Change Component DesignItemId : Designator=U1 Old DesignItemId=X New DesignItemId=X1117
+Change Component Footprint: Designator=C8 Old Footprint=CAP_6MM_M New Footprint=C_B3528
+Change Component Designator: OldDesignator=3V3 NewDesignator=P2
+Change Component Designator: OldDesignator=SWD NewDesignator=P1
+Change Component Designator: OldDesignator=复位 NewDesignator=S1
+Change Component Designator: OldDesignator=扩展 NewDesignator=P7
+Change Component Designator: OldDesignator=电源 NewDesignator=D1
+Change Component Description : Designator=C1 Old Description= New Description=Capacitor
+Change Component Description : Designator=C2 Old Description= New Description=Capacitor
+Change Component Description : Designator=C3 Old Description= New Description=Capacitor
+Change Component Description : Designator=C4 Old Description= New Description=Capacitor
+Change Component Description : Designator=C5 Old Description= New Description=Capacitor
+Change Component Description : Designator=C6 Old Description= New Description=Capacitor
+Change Component Description : Designator=C7 Old Description= New Description=Capacitor
+Change Component Description : Designator=C9 Old Description= New Description=Capacitor
+Change Component Description : Designator=C10 Old Description= New Description=Capacitor
+Change Component Description : Designator=C11 Old Description= New Description=Capacitor
+Change Component Description : Designator=C12 Old Description= New Description=Capacitor
+Change Component Description : Designator=C13 Old Description= New Description=Capacitor
+Change Component Description : Designator=C14 Old Description= New Description=Capacitor
+Change Component Description : Designator=C15 Old Description= New Description=Capacitor
+Change Component Description : Designator=C16 Old Description= New Description=Capacitor
+Change Component Description : Designator=R1 Old Description= New Description=Potentiometer
+Change Component Description : Designator=R2 Old Description= New Description=Potentiometer
+Change Component Description : Designator=R3 Old Description= New Description=Potentiometer
+Change Component Description : Designator=R4 Old Description= New Description=Potentiometer
+Change Component Description : Designator=R5 Old Description= New Description=Potentiometer
+Change Component Description : Designator=R6 Old Description= New Description=Potentiometer
+Change Component Description : Designator=R7 Old Description= New Description=Potentiometer
+Change Component Description : Designator=R8 Old Description= New Description=Potentiometer
+Change Component Description : Designator=D2 Old Description= New Description=Typical BLUE SiC LED
+Change Component Description : Designator=D3 Old Description= New Description=Typical BLUE SiC LED
+Change Component Description : Designator=D4 Old Description= New Description=Typical BLUE SiC LED
+Change Component Description : Designator=D5 Old Description= New Description=Typical BLUE SiC LED
+Change Component Description : Designator=D1 Old Description= New Description=Typical BLUE SiC LED
+Change Component Library : Designator=Y0 Old Library= New Library=my_lib.IntLib
+Change Component Library : Designator=S1 Old Library= New Library=my_lib.IntLib
+Change Component Library : Designator=U0 Old Library=my_li New Library=my_lib.IntLib
+Change Component Library : Designator=C1 Old Library=my_lib.In New Library=my_lib.IntLib
+Change Component Library : Designator=C2 Old Library=my_lib.In New Library=my_lib.IntLib
+Change Component Library : Designator=C3 Old Library=my_lib.In New Library=my_lib.IntLib
+Change Component Library : Designator=C5 Old Library=my_lib.In New Library=my_lib.IntLib
+Change Component Library : Designator=C6 Old Library=my_lib.In New Library=my_lib.IntLib
+Change Component Library : Designator=C9 Old Library=my_lib.In New Library=my_lib.IntLib
+Change Component Library : Designator=C10 Old Library=my_lib.In New Library=my_lib.IntLib
+Change Component Library : Designator=C11 Old Library=my_lib.In New Library=my_lib.IntLib
+Change Component Library : Designator=C12 Old Library=my_lib.In New Library=my_lib.IntLib
+Change Component Library : Designator=C13 Old Library=my_lib.In New Library=my_lib.IntLib
+Change Component Library : Designator=C14 Old Library=my_lib.In New Library=my_lib.IntLib
+Change Component Library : Designator=C15 Old Library=my_lib.In New Library=my_lib.IntLib
+Change Component Library : Designator=C16 Old Library=my_lib.In New Library=my_lib.IntLib
+Change Component Library : Designator=R1 Old Library=my_lib.In New Library=my_lib.IntLib
+Change Component Library : Designator=R2 Old Library=my_lib.In New Library=my_lib.IntLib
+Change Component Library : Designator=R3 Old Library=my_lib.In New Library=my_lib.IntLib
+Change Component Library : Designator=R4 Old Library=my_lib.In New Library=my_lib.IntLib
+Change Component Library : Designator=R5 Old Library=my_lib.In New Library=my_lib.IntLib
+Change Component Library : Designator=R6 Old Library=my_lib.In New Library=my_lib.IntLib
+Change Component Library : Designator=R7 Old Library=my_lib.In New Library=my_lib.IntLib
+Change Component Library : Designator=R8 Old Library=my_lib.In New Library=my_lib.IntLib

@@ -1,0 +1,89 @@
+Removed Pin From Net: NetName=GND Pin=D2-2
+Removed Pin From Net: NetName=GND Pin=D3-2
+Removed Pin From Net: NetName=GND Pin=D4-2
+Removed Pin From Net: NetName=GND Pin=D5-2
+Removed Pin From Net: NetName=GND Pin=U0-8
+Removed Pin From Net: NetName=GND Pin=U0-9
+Removed Pin From Net: NetName=GND Pin=U0-10
+Removed Pin From Net: NetName=GND Pin=U0-11
+Removed Pin From Net: NetName=SWDIO Pin=U0-50
+Removed Pin From Net: NetName=GND Pin=無線通信-1
+Removed Pin From Net: NetName=VEE Pin=無線通信-2
+Removed Pin From Net: NetName=CE Pin=無線通信-3
+Removed Pin From Net: NetName=CSN Pin=無線通信-4
+Removed Pin From Net: NetName=SCK Pin=無線通信-5
+Removed Pin From Net: NetName=MOSI Pin=無線通信-6
+Removed Pin From Net: NetName=MISO Pin=無線通信-7
+Removed Pin From Net: NetName=IRQ Pin=無線通信-8
+Removed Member From Class: ClassName=四旋翼飞控 Member=無線通信
+Change Component DesignItemId : Designator=複位 Old DesignItemId= New DesignItemId=KEY
+Change Component DesignItemId : Designator=Y0 Old DesignItemId= New DesignItemId=无源晶振
+Change Component DesignItemId : Designator=U0 Old DesignItemId=STM32F1_6 New DesignItemId=STM32F1_64pin
+Change Component DesignItemId : Designator=U1 Old DesignItemId=X New DesignItemId=X1117
+Change Component Designator: OldDesignator=U1 NewDesignator=穩壓
+Change Component Description : Designator=C1 Old Description=Capac New Description=Capacitor
+Change Component Description : Designator=C2 Old Description=Capac New Description=Capacitor
+Change Component Description : Designator=C3 Old Description=Capac New Description=Capacitor
+Change Component Description : Designator=C4 Old Description=Capac New Description=Capacitor
+Change Component Description : Designator=C5 Old Description=Capac New Description=Capacitor
+Change Component Description : Designator=C6 Old Description=Capac New Description=Capacitor
+Change Component Description : Designator=C7 Old Description=Capac New Description=Capacitor
+Change Component Description : Designator=C8 Old Description=Capac New Description=Capacitor
+Change Component Description : Designator=C9 Old Description=Capac New Description=Capacitor
+Change Component Description : Designator=C10 Old Description=Capac New Description=Capacitor
+Change Component Description : Designator=C11 Old Description=Capac New Description=Capacitor
+Change Component Description : Designator=C12 Old Description=Capac New Description=Capacitor
+Change Component Description : Designator=C13 Old Description=Capac New Description=Capacitor
+Change Component Description : Designator=C14 Old Description=Capac New Description=Capacitor
+Change Component Description : Designator=C15 Old Description=Capac New Description=Capacitor
+Change Component Description : Designator=C16 Old Description=Capac New Description=Capacitor
+Change Component Description : Designator=P3 Old Description=Header, 3 New Description=Header, 3-Pin
+Change Component Description : Designator=P4 Old Description=Header, 3 New Description=Header, 3-Pin
+Change Component Description : Designator=P5 Old Description=Header, 3 New Description=Header, 3-Pin
+Change Component Description : Designator=P6 Old Description=Header, 3 New Description=Header, 3-Pin
+Change Component Description : Designator=P8 Old Description=Header, 3 New Description=Header, 3-Pin
+Change Component Description : Designator=P9 Old Description=Header, 3 New Description=Header, 3-Pin
+Change Component Description : Designator=P10 Old Description=Header, 3 New Description=Header, 3-Pin
+Change Component Description : Designator=P11 Old Description=Header, 3 New Description=Header, 3-Pin
+Change Component Description : Designator=3V3 Old Description=Header, 3-Pin, Dual New Description=Header, 3-Pin, Dual row
+Change Component Description : Designator=SWD Old Description=Header, 5 New Description=Header, 5-Pin
+Change Component Description : Designator=6050 Old Description=Header, 8 New Description=Header, 8-Pin
+Change Component Description : Designator=擴展 Old Description=Header, New Description=Header, 4-Pin
+Change Component Description : Designator=R1 Old Description=Potentiom New Description=Potentiometer
+Change Component Description : Designator=R2 Old Description=Potentiom New Description=Potentiometer
+Change Component Description : Designator=R3 Old Description=Potentiom New Description=Potentiometer
+Change Component Description : Designator=R4 Old Description=Potentiom New Description=Potentiometer
+Change Component Description : Designator=R5 Old Description=Potentiom New Description=Potentiometer
+Change Component Description : Designator=R6 Old Description=Potentiom New Description=Potentiometer
+Change Component Description : Designator=R7 Old Description=Potentiom New Description=Potentiometer
+Change Component Description : Designator=R8 Old Description=Potentiom New Description=Potentiometer
+Change Component Description : Designator=電源 Old Description=Typical BLUE S New Description=Typical BLUE SiC LED
+Change Component Description : Designator=D2 Old Description=Typical BLUE SiC New Description=Typical BLUE SiC LED
+Change Component Description : Designator=D3 Old Description=Typical BLUE SiC New Description=Typical BLUE SiC LED
+Change Component Description : Designator=D4 Old Description=Typical BLUE SiC New Description=Typical BLUE SiC LED
+Change Component Description : Designator=D5 Old Description=Typical BLUE SiC New Description=Typical BLUE SiC LED
+Added Component: Designator=P12(HDR2X4)
+Added Pin To Net: NetName=GND Pin=P12-1
+Added Pin To Net: NetName=VEE Pin=P12-2
+Added Pin To Net: NetName=CE Pin=P12-3
+Added Pin To Net: NetName=CSN Pin=P12-4
+Added Pin To Net: NetName=SCK Pin=P12-5
+Added Pin To Net: NetName=MOSI Pin=P12-6
+Added Pin To Net: NetName=MISO Pin=P12-7
+Added Pin To Net: NetName=IRQ Pin=P12-8
+Added Pin To Net: NetName=GND Pin=U0-18
+Added Pin To Net: NetName=VEE Pin=U0-19
+Added Pin To Net: NetName=SWDIO Pin=U0-46
+Added Pin To Net: NetName=LED0 Pin=D2-2
+Added Pin To Net: NetName=LED0 Pin=U0-8
+Added Net: Name=LED0
+Added Pin To Net: NetName=LED1 Pin=D3-2
+Added Pin To Net: NetName=LED1 Pin=U0-9
+Added Net: Name=LED1
+Added Pin To Net: NetName=LED2 Pin=D4-2
+Added Pin To Net: NetName=LED2 Pin=U0-10
+Added Net: Name=LED2
+Added Pin To Net: NetName=LED3 Pin=D5-2
+Added Pin To Net: NetName=LED3 Pin=U0-11
+Added Net: Name=LED3
+Added Member To Class: ClassName=四旋翼飞控 Member=Component P12 無線通信

@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=SCL Pin=P2-3
+Removed Pin From Net: NetName=SDA Pin=P2-4
+Change Component Designator: OldDesignator=P2 NewDesignator=P0
+Added Pin To Net: NetName=VCC Pin=P0-1
+Added Pin To Net: NetName=GND Pin=P0-2
+Added Pin To Net: NetName=SCL Pin=P0-3
+Added Pin To Net: NetName=SDA Pin=P0-4
+Added Pin To Net: NetName=INT Pin=P0-8
+Added Pin To Net: NetName=NetP2_3 Pin=P2-3
+Added Pin To Net: NetName=NetP2_4 Pin=P2-4
+Added Member To Class: ClassName=ËÄÐýÒí·É¿Ø Member=Component D4 LED
+Added Member To Class: ClassName=ËÄÐýÒí·É¿Ø Member=Component P2 p

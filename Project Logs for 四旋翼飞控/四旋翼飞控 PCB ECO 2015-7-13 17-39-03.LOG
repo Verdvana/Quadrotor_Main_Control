@@ -1,0 +1,90 @@
+Removed Pin From Net: NetName=VEE Pin=C?-1
+Removed Pin From Net: NetName=VEE Pin=C?-2
+Removed Pin From Net: NetName=LED3 Pin=D?-2
+Removed Pin From Net: NetName=SCL Pin=P2-3
+Removed Pin From Net: NetName=SDA Pin=P2-4
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Change Component Designator: OldDesignator=C? NewDesignator=C4
+Change Component Designator: OldDesignator=C? NewDesignator=C5
+Change Component Designator: OldDesignator=C? NewDesignator=C6
+Change Component Designator: OldDesignator=C? NewDesignator=C7
+Change Component Designator: OldDesignator=C? NewDesignator=C8
+Change Component Designator: OldDesignator=C? NewDesignator=C9
+Change Component Designator: OldDesignator=C? NewDesignator=C10
+Change Component Designator: OldDesignator=C? NewDesignator=C11
+Change Component Designator: OldDesignator=C? NewDesignator=C12
+Change Component Designator: OldDesignator=C? NewDesignator=C13
+Change Component Designator: OldDesignator=C? NewDesignator=C14
+Change Component Designator: OldDesignator=C? NewDesignator=C15
+Change Component Designator: OldDesignator=C? NewDesignator=C16
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Component Designator: OldDesignator=R? NewDesignator=R5
+Change Component Designator: OldDesignator=R? NewDesignator=R6
+Change Component Designator: OldDesignator=R? NewDesignator=R7
+Change Component Designator: OldDesignator=R? NewDesignator=R8
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=VCC Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=VCC Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=VEE Pin=C6-2
+Added Pin To Net: NetName=VEE Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=VEE Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=VEE Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=VEE Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=VEE Pin=C11-2
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=VEE Pin=C12-2
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=VEE Pin=C13-2
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=VEE Pin=C14-2
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=VEE Pin=C15-2
+Added Pin To Net: NetName=GND Pin=C16-1
+Added Pin To Net: NetName=VEE Pin=C16-2
+Added Pin To Net: NetName=GND Pin=D?-2
+Added Pin To Net: NetName=LED0 Pin=D?-2
+Added Pin To Net: NetName=LED1 Pin=D?-2
+Added Pin To Net: NetName=LED2 Pin=D?-2
+Added Pin To Net: NetName=LED3 Pin=D?-2
+Added Pin To Net: NetName=VCC Pin=P2-1
+Added Pin To Net: NetName=GND Pin=P2-2
+Added Pin To Net: NetName=NetP2_3 Pin=P2-3
+Added Pin To Net: NetName=SCL Pin=P2-3
+Added Pin To Net: NetName=NetP2_4 Pin=P2-4
+Added Pin To Net: NetName=SDA Pin=P2-4
+Added Pin To Net: NetName=VEE Pin=R3-1
+Added Pin To Net: NetName=VEE Pin=R5-1
+Added Pin To Net: NetName=VEE Pin=R6-1
+Added Pin To Net: NetName=VEE Pin=R7-1
+Added Pin To Net: NetName=VEE Pin=R8-1
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=NetC3_2 Pin=R3-2
+Added Pin To Net: NetName=NetC3_2 Pin=S1-2
+Added Net: Name=NetC3_2
+Added Member To Class: ClassName=ËÄĞıÒí·É¿Ø Member=Component C4 10uF
+Added Member To Class: ClassName=ËÄĞıÒí·É¿Ø Member=Component C5 100nF
+Added Member To Class: ClassName=ËÄĞıÒí·É¿Ø Member=Component C6 100nF
+Added Member To Class: ClassName=ËÄĞıÒí·É¿Ø Member=Component C7 10uF
+Added Member To Class: ClassName=ËÄĞıÒí·É¿Ø Member=Component C8 10uF
+Added Member To Class: ClassName=ËÄĞıÒí·É¿Ø Member=Component C9 100nF
+Added Member To Class: ClassName=ËÄĞıÒí·É¿Ø Member=Component C10 100nF
+Added Member To Class: ClassName=ËÄĞıÒí·É¿Ø Member=Component C11 100nF
+Added Member To Class: ClassName=ËÄĞıÒí·É¿Ø Member=Component C12 100nF
+Added Member To Class: ClassName=ËÄĞıÒí·É¿Ø Member=Component C13 100nF
+Added Member To Class: ClassName=ËÄĞıÒí·É¿Ø Member=Component C14 100nF
+Added Member To Class: ClassName=ËÄĞıÒí·É¿Ø Member=Component C15 100nF
+Added Member To Class: ClassName=ËÄĞıÒí·É¿Ø Member=Component C16 100nF
+Added Member To Class: ClassName=ËÄĞıÒí·É¿Ø Member=Component R3 10K
+Added Member To Class: ClassName=ËÄĞıÒí·É¿Ø Member=Component R4 510
+Added Member To Class: ClassName=ËÄĞıÒí·É¿Ø Member=Component R5 510
+Added Member To Class: ClassName=ËÄĞıÒí·É¿Ø Member=Component R6 510
+Added Member To Class: ClassName=ËÄĞıÒí·É¿Ø Member=Component R7 510

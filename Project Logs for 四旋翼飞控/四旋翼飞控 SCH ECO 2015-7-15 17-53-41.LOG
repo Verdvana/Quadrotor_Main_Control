@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=D1 NewDesignator=电源
+Change Component Designator: OldDesignator=P0 NewDesignator=6050
+Change Component Designator: OldDesignator=P1 NewDesignator=SWD
+Change Component Designator: OldDesignator=P2 NewDesignator=3V3
+Change Component Designator: OldDesignator=P7 NewDesignator=扩展
+Change Component Designator: OldDesignator=S1 NewDesignator=复位
